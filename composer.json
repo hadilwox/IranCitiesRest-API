@@ -1,0 +1,18 @@
+{
+    "name": "hadilwox/rest-api",
+    "autoload": {
+        "psr-4": {
+            "Hadilwox\\RestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "negarhadi",
+            "email": "negar.hadi2611@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10",
+      "ext-json": "*"
+    }
+}
